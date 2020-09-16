@@ -1,4 +1,4 @@
-HEAD
+<<<<<<< HEAD
 ﻿using System;
 
 namespace MiPrimerProyectoVersionado
@@ -14,7 +14,8 @@ namespace MiPrimerProyectoVersionado
             //Maxi
 
             //Guada
-                    
+            Console.WriteLine("Presente. Saludos Profe");
+            
             //Rodrigo
 
             //Sonia
@@ -29,7 +30,7 @@ namespace MiPrimerProyectoVersionado
         }
     }
 }
-
+=======
 ﻿using System;
 
 namespace MiPrimerProyectoVersionado
@@ -61,4 +62,4 @@ namespace MiPrimerProyectoVersionado
         }
     }
 }
-
+>>>>>>> 3376fc8495f56867812a38b890c7740cb3af4eb1
