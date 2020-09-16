@@ -7,6 +7,24 @@ namespace MiPrimerProyectoVersionado
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            //Celeste
+
+            //Maxi
+
+            //Guada
+
+            //Rodrigo
+
+            //Sonia
+
+            //Franco Q
+
+            //Fede
+
+            //Simon
+
+            //Franco S
         }
     }
 }
