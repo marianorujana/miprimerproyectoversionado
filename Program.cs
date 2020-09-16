@@ -9,6 +9,7 @@ namespace MiPrimerProyectoVersionado
             Console.WriteLine("Hello World!");
 
             //Celeste
+            Console.WriteLine("Presente");
 
             //Maxi
 
@@ -22,12 +23,9 @@ namespace MiPrimerProyectoVersionado
 
             //Fede
 
-            //Simon Presente
+            //Simon
 
             //Franco S
-
-	   //Mariano
-	   //Hola
         }
     }
 }
