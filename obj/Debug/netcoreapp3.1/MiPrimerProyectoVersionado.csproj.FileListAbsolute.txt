@@ -1,0 +1,11 @@
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.exe
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.deps.json
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.runtimeconfig.json
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.runtimeconfig.dev.json
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.dll
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\bin\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.pdb
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\obj\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.csprojAssemblyReference.cache
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\obj\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.AssemblyInfoInputs.cache
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\obj\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.AssemblyInfo.cs
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\obj\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.dll
+D:\UCP\Programacion II\MiPrimerProyectoVersionado\obj\Debug\netcoreapp3.1\MiPrimerProyectoVersionado.pdb
