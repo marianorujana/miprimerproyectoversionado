@@ -21,6 +21,7 @@ namespace MiPrimerProyectoVersionado
             //Franco Q
 
             //Fede
+            Console.WriteLine("Presente");
 
             //Simon
 
