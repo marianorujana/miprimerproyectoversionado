@@ -1,4 +1,5 @@
-﻿﻿using System;
+
+﻿using System;
 
 namespace MiPrimerProyectoVersionado
 {
@@ -9,7 +10,6 @@ namespace MiPrimerProyectoVersionado
             Console.WriteLine("Hello World!");
 
             //Celeste
-            Console.WriteLine("Presente");
 
             //Maxi
 
@@ -20,14 +20,14 @@ namespace MiPrimerProyectoVersionado
             //Sonia
 
             //Franco Q
-
+            Console.WriteLine("Hello World!");
             //Fede
-            Console.WriteLine("Presente");
+
             //Simon
 
             //Franco S
-
-            //Agrego una nueva linea
         }
     }
 }
+
+﻿
